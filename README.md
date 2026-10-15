@@ -12,8 +12,8 @@
 * **Student:** Antara Aditi Ajit Parab
 * **Roll No:** 67
 * **Division:** D10A
-* **Collaborator:** Tanvi
-* **Institution:** Vidya Prasarak Mandal's Polytechnic, Thane
+* **Department:** Information Technology
+* **Institution:** Vivekanand Education Society's Institute of Technology (VESIT), Mumbai
 
 This repository contains the practical coursework for **DevOps Lab Experiment 5**, focusing on **Distributed Version Control Systems (DVCS)** using **Git** and cloud-hosted collaboration on **GitHub**.
 
@@ -115,4 +115,4 @@ DevOps_Exp5_67_D10A/
 ---
 
 ## 📄 License & Academic Integrity
-This repository is created for educational and laboratory submission purposes under the curriculum of VPM's Polytechnic, Thane.
+This repository is created for educational and laboratory submission purposes under the Department of Information Technology, VESIT, Mumbai.
